@@ -9,3 +9,5 @@ Automating GIS-processes course teaches spatial data management and analysis usi
 5 	Visualization: static and interactive maps<br>
 6 	OpenStreetMap data (osmnx) and Network analysis (networkx)<br>
 7 	Using Python in QGIS; Raster data processing<br>
+
+The TimeSliderChoropleth map generated using folium and displaying Texas Unemployment Rates from before COVID-19, up through the end of 2020, can be viewed at https://eoefelein.github.io/AutoGIS2019-UniversityofHelsinki/.
